@@ -30,3 +30,159 @@
 *.exe
 *.out
 *.app
+a.out
+
+# VSCode specific files
+.vscode/
+*.code-workspace
+
+# macOS specific files
+.DS_Store
+*.dSYM
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CMakeLists.txt.user
+
+# Makefile generated files
+Makefile
+makefile
+
+# Visual Studio Code configuration
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Build directories
+build/
+Build/
+CMakeBuild/
+cmake-build-*/
+Debug/
+debug/
+Release/
+release/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.swn
+
+# IDE specific files
+.idea/
+*.iml
+
+# Backup files
+*.bak
+*~
+# Temporary files created by editors
+*.swp
+*.swo
+# Temporary files created by C++
+*.gcda
+*.gcno
+*.gcov
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+a.out
+
+# VSCode specific files
+.vscode/
+*.code-workspace
+
+# macOS specific files
+.DS_Store
+*.dSYM
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CMakeLists.txt.user
+
+# Makefile generated files
+Makefile
+makefile
+
+# Visual Studio Code configuration
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Build directories
+build/
+Build/
+CMakeBuild/
+cmake-build-*/
+Debug/
+debug/
+Release/
+release/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.swn
+
+# IDE specific files
+.idea/
+*.iml
+
+# Backup files
+*.bak
+*~
+# Temporary files created by editors
+*.swp
+*.swo
+# Temporary files created by C++
+*.gcda
+*.gcno
+*.gcov
